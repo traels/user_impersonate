@@ -6,7 +6,7 @@ require "user_impersonate/version"
 # Describe your gem and declare its dependencies:
 Gem::Specification.new do |s|
   s.name        = "user_impersonate"
-  s.version     = UserImpersonate::VERSION
+  s.version     = '2.1.4'
   s.authors     = ["Dr Nic Williams", "Many people at Engine Yard"]
   s.email       = ["drnicwilliams@gmail.com"]
   s.homepage    = "https://drnic.github.com/user-impersonate"
